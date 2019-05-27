@@ -5,7 +5,13 @@
       "title": "hello"
     }
   ],
-  "grid": {
+  "grid1": {
+    "status":       "200",
+    "body": {
+            "grid_voltage": 208
+    }
+  },
+  "grid2": {
     "status":       "200",
     "body": {
             "grid_voltage": 240
