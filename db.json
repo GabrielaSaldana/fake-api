@@ -5,7 +5,10 @@
       "title": "hello"
     }
   ],
-  "profile": {
-    "name": "typicode"
+  "grid": {
+    "status":       "200",
+    "body": {
+            "grid_voltage": 240
+    }
   }
 }
